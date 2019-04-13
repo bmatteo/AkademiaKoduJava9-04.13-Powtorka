@@ -13,6 +13,7 @@ public class InlineTest {
 
         int r = 4;
 
+        double e= 9;
 
 
 
