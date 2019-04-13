@@ -11,8 +11,7 @@ public class InlineTest {
         double c= 5.5;
 
 
-
-
+        int r = 4;
 
 
 
